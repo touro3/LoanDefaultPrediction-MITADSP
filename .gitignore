@@ -1,0 +1,53 @@
+#gitignore 
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+
+# Python environment/IDE specific
+*.idea/
+*.DS_Store
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Hidden system files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.swp
+*.tmp
+~*
+
+# Package management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Optional - if you plan to export notebooks as HTML/PDF
+*.html
+*.pdf
