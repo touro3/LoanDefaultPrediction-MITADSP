@@ -133,4 +133,3 @@ LoanDefaultPrediction/
 ├── requiments.txt                  # Necessary libraries
 ├── .gitignore                      # Not push unwanted files
 └── hmeq.csv                        # Input data files
-</details>
