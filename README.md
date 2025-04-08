@@ -20,7 +20,7 @@ Develop a predictive model that balances **recall** (catching defaulters) and **
 <details>
 <summary><strong>Project Pipeline</strong></summary>
 
-![alt text](image.png)
+![Project Pipeline](projectpipeline.png)
 </details>
 
 ---
