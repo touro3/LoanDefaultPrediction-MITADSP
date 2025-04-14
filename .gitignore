@@ -48,5 +48,3 @@ Thumbs.db
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Optional - if you plan to export notebooks as HTML/PDF
-*.pdf
